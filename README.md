@@ -10,7 +10,7 @@
 - ### Distributed Board Game in Java
     | **Related Course**  | Software Engineering                          |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Final Project for Software Engineering |
+  | **Description**     | Final Project |
   | **Project Type**    | Group mandatory project                            |
   | **Language**        | Java                                               |
   | **URL**             | [link](https://github.com/Dudoleitor/IS23-AM09) |
@@ -18,7 +18,7 @@
 - ### Music Website
   | **Related Course**  | Web Technologies                         |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Final project for Web Technologies |
+  | **Description**     | Final project  |
   | **Project Type**    | Group mandatory project  |
   | **Languages**        | Java, SQL, HTML, CSS, JavaScript  |
   | **URL**             | [With serves side templating](https://github.com/Mik-Ado/WIP_project_47) |
@@ -28,7 +28,7 @@
 - ### Implementation of Red-Black Trees in C language
   | **Related Course**  | Algorithms and Data Structure                           |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Final project for Algorithms and Data Structures |
+  | **Description**     | Final project  |
   | **Project Type**    | Individual mandatory project                            |
   | **Language**        | C                                                      |
   | **URL**             | [link](https://github.com/giacomo-brunetta/Progetto_API_2022) |
@@ -37,7 +37,7 @@
 - ### Hardware descripition of a small component using Vivado
     | **Related Course**  | Logical Networks                           |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Final Project for Logical Networks |
+  | **Description**     | Final Project  |
   | **Project Type**    | Group mandatory project                            |
   | **Language**        | VHDL                                                |
   | **URL**             | [link](https://github.com/gabricarm/project_reti_logiche) |
