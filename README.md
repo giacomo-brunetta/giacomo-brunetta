@@ -21,7 +21,7 @@
   | **Description**     | Final project for Web Technologies |
   | **Project Type**    | Group mandatory project  |
   | **Languages**        | Java, SQL, HTML, CSS, JavaScript  |
-  | **URL**             | [With serves side templating]([https://github.com/Dudoleitor/IS23-AM09](https://github.com/Mik-Ado/WIP_project_47)) |
+  | **URL**             | [With serves side templating](https://github.com/Mik-Ado/WIP_project_47) |
   | **URL**             | [With JS](https://github.com/Mik-Ado/WIP_project_47_JAVASCRIPT) |
   
 
