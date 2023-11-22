@@ -40,9 +40,9 @@
   | **Description**     | Final Project  |
   | **Project Type**    | Group mandatory project                            |
   | **Language**        | VHDL                                                |
-  | **URL**             | [link](https://github.com/gabricarm/project_reti_logiche) |
+  | **URL**             | still private |
   
-- ### Trie Search and Borrow Wheeler Transformate
+- ### Trie Search and Burrows–Wheeler transform
   | **Related Course**  | Bioinformatics                          |
   | ------------------- | -------------------------------------------------------- |
   | **Description**     | Substring search algorithms implemented in many languages|
