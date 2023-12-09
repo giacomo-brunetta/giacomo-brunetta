@@ -40,7 +40,7 @@
   | **Description**     | Final Project  |
   | **Project Type**    | Group mandatory project                            |
   | **Language**        | VHDL                                                |
-  | **URL**             | still private |
+  | **URL**             | https://github.com/Igc-57I/project_reti_logiche |
   
 - ### Trie Search and Burrows–Wheeler transform
   | **Related Course**  | Bioinformatics                          |
