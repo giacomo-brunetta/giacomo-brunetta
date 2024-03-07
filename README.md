@@ -1,4 +1,11 @@
 # My projects
+- ### Music Genre Classification: a comparative study
+  | **Related Course**  | Numerical Analysis for ML                          |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Compare ML and DL in the scope of music classification|
+  | **Project Type**    | Group mandatory project                           |
+  | **Language**        | Python (numpy, sklearn, pythorch)                                           |
+  | **URL**             | [link](https://github.com/gabricarr/Naml-project) |
 - ### Monte Carlo Tree Search for Board Games
   | **Related Course**  | Foundations of AI                          |
   | ------------------- | -------------------------------------------------------- |
