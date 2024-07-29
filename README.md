@@ -1,5 +1,20 @@
 # My projects
-- ### Music Genre Classification: a comparative study
+- ### From FGPA to AIE: Beyond mutual information limits
+  | **Related Course**  | High Performance Processors and Systems               |
+  | ------------------- | -------------------------------------------------------- |
+  | **Awards**          | AMD Open Hardware winner of 2024 in the student category|
+  | **Description**     | Accelerate the computation of mutual information through the use of the AI Engines of the AMD Versal VCK5000|
+  | **Project Type**    | Group mandatory project                           |
+  | **Language**        | C++, HLS                                          |
+  | **URL**             | [link](https://github.com/necst/Hpps24-fpga2aie) |
+- ### Formal Analysis of Search-and-Rescue Scenarios
+  | **Related Course**  | Formal Methods for Parallel and Real-Time Systems      |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Simulate a multi-agent search-and-rescue scenario with timed automathons|
+  | **Project Type**    | Group mandatory project                           |s
+  | **Language**        | Uppaal, Python                                          |
+  | **URL**             | [link](https://github.com/FrankSanta/FM24) |
+- ### Music Genre Classification: A Comparative Study
   | **Related Course**  | Numerical Analysis for ML                          |
   | ------------------- | -------------------------------------------------------- |
   | **Description**     | Compare ML and DL in the scope of music classification|
